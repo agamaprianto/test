@@ -1,0 +1,152 @@
+
+VALID | LP190734623SG : -Send item out for physical delivery (Country: ID)  : China : Indonesia : 2021-02-06 11:08:00
+VALID | LP193739908SG : Delivered  : China : New Zealand : 2021-03-25 14:04:00
+VALID | LP193432936SG : [TOKYO,104-8799]Final delivery  : China : Japan : 2021-03-10 12:43:00
+VALID | LP192799281SG : -Hold item at point of delivery (Country: ID)  : China : Indonesia : 2021-03-29 15:20:00
+VALID | LP195430495SG : Transit to Destination Processing Facility  : China : Indonesia : 2021-04-07 13:26:00
+VALID | LP193716558SG : Delivered  : China : China : 2021-03-09 10:41:00
+VALID | LP192249704SG : Final delivery,Delivered to: /RESIDENT  : China : Thailand : 2021-02-17 10:30:00
+VALID | LP195593661SG : Delivered  : China : Japan : 2021-03-29 14:45:00
+VALID | LP191010921SG : Final delivery,Delivered to: /HOUSEMAID  : China : Thailand : 2021-02-03 09:45:00
+VALID | LP192189696SG : -Send item out for physical delivery (Country: ID)  : China : Indonesia : 2021-03-12 10:41:00
+VALID | LP193250465SG : [山梨県,400-0299]お届け済み  : China : Japan : 2021-03-06 13:32:00
+VALID | LP195983463SG : Final delivery,Delivered to: /REPRESENTATIVE  : China : Thailand : 2021-03-31 14:49:00
+VALID | LP191606254SG : [TOKYO,131-8799]Final delivery  : China : Japan : 2021-02-12 11:56:00
+VALID | LP195680808SG : Shipment cancelled  : China : Japan : 2021-03-26 14:27:32
+VALID | LP190734946SG : Shipment cancelled  : China : Thailand : 2021-01-29 01:43:51
+VALID | LP191730305SG : Final delivery,Delivered to: /EMPLOYEE  : China : Thailand : 2021-02-11 10:25:00
+VALID | LP191874162SG : Final delivery,Delivered to: /FATHER  : China : Thailand : 2021-02-16 13:58:00
+VALID | LP196607662SG : -Despatched to OverSeas Postal Admin (From SG/SIN to JP/KWS)  : China : Japan : 2021-04-02 05:21:39
+VALID | LP194151662SG : Delivered  : China : Malaysia : 2021-03-15 13:31:00
+VALID | LP196955509SG : 成功  : China : Japan : 2021-04-06 03:38:21
+VALID | LP190227065SG : Delivered  : China : China : 2021-01-21 11:03:00
+VALID | LP191907682SG : -Hold item at point of delivery (Country: ID)  : China : Indonesia : 2021-02-22 09:09:00
+VALID | LP194714920SG : Product Delivered (Country/Region code: HK)  : China : China : 2021-03-18 11:21:00
+VALID | LP197130281SG : -Despatched to OverSeas Postal Admin (From SG/SIN to MY/KUL)  : China : Malaysia : 2021-04-08 09:32:08
+VALID | LP195213289SG : Shipment cancelled  : China : New Zealand : 2021-03-23 12:27:48
+VALID | LP194815000SG : Delivery failed  : China : China : 2021-03-31 10:23:00
+VALID | LP192592327SG : Product Delivered (Country code: JP)  : China : Japan : 2021-03-02 14:42:00
+VALID | LP191414784SG : [SHIZUOKA,424-8799]Final delivery  : China : Japan : 2021-02-12 11:57:00
+VALID | LP191733465SG : -Hold item at point of delivery (Country: ID)  : China : Indonesia : 2021-03-06 07:37:00
+VALID | LP192595014SG : Shipment cancelled  : China : New Zealand : 2021-02-26 20:41:14
+VALID | LP193013497SG : Shipment cancelled  : China : Indonesia : 2021-03-02 09:49:06
+VALID | LP193091344SG : -Send item out for physical delivery (Country: ID)  : China : Indonesia : 2021-03-13 08:53:00
+VALID | LP193111256SG : Product Delivered (Country code: ID)  : China : Indonesia : 2021-03-12 08:19:00
+VALID | LP192432387SG : Shipment cancelled  : China : Indonesia : 2021-02-24 10:26:47
+VALID | LP190592695SG : Delivered (881044: BCP Mỹ Thạnh - An Giang )  : China : Vietnam : 2021-02-02 15:43:00
+VALID | LP193113155SG : Product Delivered (Country code: JP)  : China : Japan : 2021-03-11 10:24:00
+VALID | LP195608009SG : Product Delivered (Country code: JP)  : China : Japan : 2021-04-05 11:01:00
+VALID | LP193700045SG : Delivered  : China : Vietnam : 2021-04-01 17:40:00
+VALID | LP196131113SG : Arrival at Processing Center  : China : Indonesia : 2021-03-31 10:20:00
+VALID | LP190973623SG : Final delivery,Delivered to: SARITH  : China : Kampuchea : 2021-02-17 16:49:00
+VALID | LP190068148SG : [CHIBA,288-8799]Final delivery  : China : Japan : 2021-01-25 11:08:00
+VALID | LP195965717SG : Shipment cancelled  : China : Indonesia : 2021-03-31 09:25:22
+VALID | LP193228351SG : [AICHI,475-8799]Final delivery  : China : Japan : 2021-03-06 10:58:00
+VALID | LP195931452SG : Delivered  : China : Vietnam : 2021-04-05 10:55:00
+VALID | LP196113035SG : Product Delivered (Country code: VN)  : China : Vietnam : 2021-04-04 10:34:00
+VALID | LP193502950SG : Shipment cancelled  : China : Indonesia : 2021-03-05 09:27:30
+VALID | LP191241315SG : -Send item out for physical delivery (Country: ID)  : China : Indonesia : 2021-02-25 08:20:00
+VALID | LP196736980SG : -Despatched to OverSeas Postal Admin (From SG/SIN to TH/BKK)  : China : Thailand : 2021-04-07 14:59:23
+VALID | LP191854865SG : Delivered  : China : South korea : 2021-02-10 11:08:00
+VALID | LP192362978SG : Final delivery,Delivered to: /SECURITY GUARD  : China : Thailand : 2021-02-18 11:14:00
+VALID | LP197367155SG : Outbound in sorting center  : China : Japan : 2021-04-07 21:42:06
+VALID | LP194148836SG : Attempted/Failed Delivery (Country code: KH)  : China : Kampuchea : 2021-03-17 16:14:00
+VALID | LP191354051SG : [大阪府,546-8799]お届け済み  : China : Japan : 2021-02-04 16:20:00
+VALID | LP194809123SG : Delivered (793501: BCP Bà Rịa VT 3 - Bà Rịa Vũng Tàu )  : China : Vietnam : 2021-03-25 17:36:00
+VALID | LP195149373SG : [KYOTO,615-8799]Final delivery  : China : Japan : 2021-03-23 15:08:00
+VALID | LP190685675SG(EX225697588SG) : With Delivery Courier (Item accepted by Delivery Courier)  : China : Indonesia : 2021-02-24 09:17:00
+VALID | LP193200588SG : -Send item out for physical delivery (Country: ID)  : China : Indonesia : 2021-03-16 11:11:00
+VALID | LP193863295SG : Shipment cancelled  : China : China : 2021-03-10 10:22:31
+VALID | LP194922922SG : Final delivery,Delivered to: LAPASRADA 241/226 M.4 PAYOM /AD  : China : Thailand : 2021-03-19 10:22:00
+VALID | LP193165183SG : [沖縄県,901-2299]お届け済み  : China : Japan : 2021-03-08 17:55:00
+VALID | LP195416848SG : [SHIZUOKA,421-0499]Final delivery  : China : Japan : 2021-03-29 09:32:00
+VALID | LP193361452SG : Delivered  : China : New Zealand : 2021-03-16 15:32:00
+VALID | LP191749788SG : [神奈川県,240-8799]お届け済み  : China : Japan : 2021-02-12 10:19:00
+VALID | LP191382741SG : -Send item out for physical delivery (Country: ID)  : China : Indonesia : 2021-02-16 07:06:00
+VALID | LP194431910SG : -Hold item at point of delivery (Country: ID)  : China : Indonesia : 2021-03-24 08:20:00
+VALID | LP190643026SG : Final delivery,Delivered to: ALEXANDRA/ADDRESSEE  : China : Thailand : 2021-02-03 11:32:00
+VALID | LP197326969SG : Inbound in sorting center  : China : Malaysia : 2021-04-08 13:38:07
+VALID | LP191425186SG : Final delivery,Delivered to: SOLYNA  : China : Kampuchea : 2021-02-17 09:56:00
+VALID | LP193441558SG : Delivered  : China : Vietnam : 2021-03-20 11:16:00
+VALID | LP190925818SG : [広島県,737-8799]お届け済み  : China : Japan : 2021-02-04 11:25:00
+VALID | LP192535934SG : [TOTTORI,683-8799]Final delivery  : China : Japan : 2021-02-24 15:04:00
+VALID | LP193039843SG : Send item out for physical delivery  : China : Indonesia : 2021-03-15 09:42:00
+VALID | LP196743380SG : -Despatched to OverSeas Postal Admin (From SG/SIN to ID/JKT)  : China : Indonesia : 2021-04-04 08:27:08
+VALID | LP196866344SG : -Despatched to OverSeas Postal Admin (From SG/SIN to TH/BKK)  : China : Thailand : 2021-04-08 12:07:41
+VALID | LP197604795SG : Inbound in sorting center  : China : New Zealand : 2021-04-08 13:11:59
+VALID | LP196777131SG : -Arrival at Destination Postal Admin (From SG/SIN to KH)  : China : Kampuchea : 2021-04-08 08:47:00
+VALID | LP190292687SG : Item delivered   : China : Indonesia : 2021-02-03 09:07:00
+VALID | LP194736015SG : Delivered  : China : Vietnam : 2021-04-01 11:02:00
+VALID | LP194979989SG : -Hold item at point of delivery (Country: ID)  : China : Indonesia : 2021-03-26 10:36:00
+VALID | LP195853225SG : -Hold item at point of delivery (Country: ID)  : China : Indonesia : 2021-04-05 09:12:00
+VALID | LP193811766SG : Information Received  : China : Thailand : 2021-03-31 15:00:00
+VALID | LP194733481SG : Delivered  : China : South korea : 2021-03-24 11:20:00
+VALID | LP197225792SG : Inbound in sorting center  : China : Thailand : 2021-04-07 18:55:43
+VALID | LP190895373SG : Item out for delivery   : China : Malaysia : 2021-02-03 08:44:05
+VALID | LP192896487SG : [山形県,994-8799]お届け済み  : China : Japan : 2021-03-04 11:29:00
+VALID | LP197231268SG : Hand over to airline.  : China : Indonesia : 2021-04-07 23:30:59
+VALID | LP192840307SG : Delivered  : China : China : 2021-03-01 14:37:00
+VALID | LP191266578SG : Item delivered to   mdrop  : China : Malaysia : 2021-02-05 09:55:11
+VALID | LP194114611SG : Delivered  : China : China : 2021-03-10 13:05:00
+VALID | LP196347715SG : Transit to Destination Processing Facility  : China : Malaysia : 2021-04-02 09:55:00
+VALID | LP195886957SG : Product Delivered (Country code: KR)  : China : South korea : 2021-03-31 14:01:00
+VALID | LP194534769SG : Item out for delivery   : China : Malaysia : 2021-03-23 09:55:59
+VALID | LP193720495SG : Final delivery,Delivered to: /SECURITY GUARD  : China : Thailand : 2021-03-20 10:44:00
+VALID | LP196870074SG : -Despatched to OverSeas Postal Admin (From SG/SIN to ID/JKT)  : China : Indonesia : 2021-04-05 07:05:26
+VALID | LP191519087SG : Delivered  : China : Indonesia : 2021-02-17 10:18:00
+VALID | LP195895256SG : Item delivered   : China : Japan : 2021-04-06 19:44:00
+VALID | LP194572705SG : Final delivery,Delivered to: SOVATY  : China : Kampuchea : 2021-03-26 14:16:00
+VALID | LP195558174SG : Final delivery,Delivered to: /GUARD  : China : Thailand : 2021-03-30 09:27:00
+VALID | LP193517985SG : -Send item out for physical delivery (Country: ID)  : China : Indonesia : 2021-03-19 14:14:00
+VALID | LP191498299SG : Delivered  : China : Indonesia : 2021-02-21 11:15:00
+VALID | LP191876375SG : Final delivery,Delivered to: MOM SOTHEA  : China : Kampuchea : 2021-02-17 08:58:00
+VALID | LP193030844SG : Delivered  : China : Indonesia : 2021-03-25 10:42:00
+VALID | LP195352365SG : Product Delivered (Country code: TH)  : China : Thailand : 2021-03-25 20:09:00
+VALID | LP191115723SG : Shipment cancelled  : China : China : 2021-02-03 12:16:27
+VALID | LP190687455SG : Send item out for physical delivery  : China : Indonesia : 2021-02-18 07:29:00
+VALID | LP196765990SG : -Despatched to OverSeas Postal Admin (From SG/SIN to KR/SEL)  : China : South korea : 2021-04-04 05:24:39
+VALID | LP192047327SG : Delivered  : China : South korea : 2021-02-16 10:48:00
+VALID | LP196272840SG : Final delivery,Delivered to: /ADDRESSEE  : China : Thailand : 2021-04-05 10:02:00
+VALID | LP193515335SG : Item delivered to   mdrop  : China : Malaysia : 2021-03-08 11:07:16
+VALID | LP196010543SG : Delivered  : China : Japan : 2021-03-29 16:47:00
+VALID | LP197128504SG : -Despatched to OverSeas Postal Admin (From SG/SIN to MY/KUL)  : China : Malaysia : 2021-04-06 05:23:32
+VALID | LP193980711SG : Shipment cancelled  : China : Malaysia : 2021-03-04 00:44:06
+VALID | LP190798663SG : [群馬県,370-8799]窓口でお渡し  : China : Japan : 2021-01-30 12:58:00
+VALID | LP193513498SG : Final delivery,Delivered to: /GUARD  : China : Thailand : 2021-03-09 10:57:00
+VALID | LP196468838SG : -Despatched to OverSeas Postal Admin (From SG/SIN to KH/PNH)  : China : Kampuchea : 2021-04-02 21:01:48
+VALID | LP196188311SG : Delivered  : China : South korea : 2021-04-05 12:00:00
+VALID | LP191445795SG : Product Delivered (Country code: ID)  : China : Indonesia : 2021-02-22 15:50:00
+VALID | LP194820035SG : Final delivery,Delivered to: /ADDRESSEE  : China : Thailand : 2021-03-22 09:53:00
+VALID | LP190842605SG : Final delivery,Delivered to: BUT ARTUR/ADDRESSEE  : China : Thailand : 2021-02-13 14:41:00
+VALID | LP192615884SG : Final delivery,Delivered to: /GUARD  : China : Thailand : 2021-03-04 11:56:00
+VALID | LP195480815SG : Delivered  : China : China : 2021-03-25 10:47:00
+VALID | LP195887158SG : Final delivery,Delivered to: /REPRESENTATIVE  : China : Thailand : 2021-03-30 10:42:00
+VALID | LP192116464SG : [SAITAMA,331-8799]Final delivery  : China : Japan : 2021-02-15 13:15:00
+VALID | LP191415351SG : Shipment cancelled  : China : Indonesia : 2021-02-05 09:25:48
+VALID | LP190812705SG : [KANAGAWA,244-8799]Final delivery  : China : Japan : 2021-02-03 10:31:00
+VALID | LP192663831SG : Item delivered to   Faezlyn   : China : Malaysia : 2021-03-02 11:18:52
+VALID | LP195519842SG : Shipment cancelled  : China : Indonesia : 2021-03-25 00:34:36
+VALID | LP192371100SG : Delivered (731025: BCP Hóc Môn B - Hồ Chí Minh )  : China : Vietnam : 2021-03-07 10:43:00
+VALID | LP194626496SG : -Hold item at point of delivery (Country: ID)  : China : Indonesia : 2021-03-31 04:16:00
+VALID | LP193146666SG : Product Delivered (Country code: TH)  : China : Thailand : 2021-03-04 11:08:00
+VALID | LP195393427SG : -Hold item at point of delivery (Country: ID)  : China : Indonesia : 2021-04-01 14:36:00
+VALID | LP195693996SG : Arrive at destination country  : China : Indonesia : 2021-04-05 10:26:00
+VALID | LP196785813SG : -Despatched to OverSeas Postal Admin (From SG/SIN to KR/SEL)  : China : South korea : 2021-04-07 21:22:30
+VALID | LP196929282SG : -Despatched to OverSeas Postal Admin (From SG/SIN to ID/JKT)  : China : Indonesia : 2021-04-08 02:48:12
+VALID | LP195100755SG : Product Delivered (Country code: NZ)  : China : New Zealand : 2021-03-25 11:17:00
+VALID | LP195738658SG : Delivery failed  : China : Kampuchea : 2021-04-07 15:37:00
+VALID | LP191384190SG : Product Delivered (Country code: TH)  : China : Thailand : 2021-02-11 14:07:00
+VALID | LP192703986SG : -Hold item at point of delivery (Country: ID)  : China : Indonesia : 2021-03-04 09:19:00
+VALID | LP194888038SG : -Hold item at point of delivery (Country: ID)  : China : Indonesia : 2021-04-06 11:33:00
+VALID | LP190674425SG : [TOKYO,188-8799]Final delivery  : China : Japan : 2021-02-01 11:27:00
+VALID | LP193771537SG : [ISHIKAWA,921-8797]Final delivery  : China : Japan : 2021-03-11 10:45:00
+VALID | LP195234995SG : Attempted/Failed Delivery (Country code: ID)  : China : Indonesia : 2021-03-30 18:47:00
+VALID | LP192477065SG : Product Delivered (Country code: MY)  : China : Malaysia : 2021-03-01 11:42:00
+VALID | LP194132473SG : -Hold item at point of delivery (Country: ID)  : China : Indonesia : 2021-03-26 11:03:00
+VALID | LP192570176SG : Final delivery,Delivered to: /ADDRESSEE  : China : Thailand : 2021-03-01 12:50:00
+VALID | LP195292114SG : Accepted by local carrier for return.Mailno:775510255552880  : China : Indonesia : 2021-03-15 16:29:27
+VALID | LP194418286SG : [713070]Đã phát thành công . Người nhận:()Dat Nguyen Tien. Ghi chú: (DingDong)  : China : Vietnam : 2021-03-23 11:24:00
+VALID | LP195626740SG : Delivered  : China : China : 2021-03-26 10:21:00
+VALID | LP193917149SG : Shipment cancelled  : China : Indonesia : 2021-03-10 21:20:20
+VALID | LP192133207SG : Delivered  : China : Vietnam : 2021-03-16 09:43:00
+VALID | LP190789091SG : [AKITA,010-8799]Final delivery  : China : Japan : 2021-02-01 11:19:00
